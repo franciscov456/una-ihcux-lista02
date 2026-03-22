@@ -1,0 +1,14 @@
+C:\Users\franc\Desktop\LabDotnet\SistemaExpert\bin\Debug\net10.0\SistemaExpert.exe
+C:\Users\franc\Desktop\LabDotnet\SistemaExpert\bin\Debug\net10.0\SistemaExpert.deps.json
+C:\Users\franc\Desktop\LabDotnet\SistemaExpert\bin\Debug\net10.0\SistemaExpert.runtimeconfig.json
+C:\Users\franc\Desktop\LabDotnet\SistemaExpert\bin\Debug\net10.0\SistemaExpert.dll
+C:\Users\franc\Desktop\LabDotnet\SistemaExpert\bin\Debug\net10.0\SistemaExpert.pdb
+C:\Users\franc\Desktop\LabDotnet\SistemaExpert\obj\Debug\net10.0\SistemaExpert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Desktop\LabDotnet\SistemaExpert\obj\Debug\net10.0\SistemaExpert.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\LabDotnet\SistemaExpert\obj\Debug\net10.0\SistemaExpert.AssemblyInfo.cs
+C:\Users\franc\Desktop\LabDotnet\SistemaExpert\obj\Debug\net10.0\SistemaExpert.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\LabDotnet\SistemaExpert\obj\Debug\net10.0\SistemaExpert.dll
+C:\Users\franc\Desktop\LabDotnet\SistemaExpert\obj\Debug\net10.0\refint\SistemaExpert.dll
+C:\Users\franc\Desktop\LabDotnet\SistemaExpert\obj\Debug\net10.0\SistemaExpert.pdb
+C:\Users\franc\Desktop\LabDotnet\SistemaExpert\obj\Debug\net10.0\SistemaExpert.genruntimeconfig.cache
+C:\Users\franc\Desktop\LabDotnet\SistemaExpert\obj\Debug\net10.0\ref\SistemaExpert.dll
